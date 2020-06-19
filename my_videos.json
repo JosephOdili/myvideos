@@ -1,8 +1,9 @@
 {
-  "urls":[
-    "https://drive.google.com/file/d/1BU6ZLt7H83hPn3ziIhsPRyptxqennrKC/view?usp=sharing",
-    "https://drive.google.com/file/d/17WL08QDlfJ0qHaZMZUjh2-iMIW3bM7TK/view?usp=sharing",
-	"https://drive.google.com/file/d/1BxC1fvrRm_SRl_oG3sLgKObiC1D1GsMT/view?usp=sharing",
-	"https://drive.google.com/file/d/1bVTN99Jii7kSd194-IA2xAYQlfqOwPS0/view?usp=sharing"
-    ]
+   "videos":[
+      {
+         "video_title":"Alhaji Musa, I'm on Fasting",
+         "preview_image":"https://drive.google.com/file/d/10vIooBiV4RQVCdZ187zMubfTlJSONjwe/view?usp=sharing",
+         "download_link":"https://drive.google.com/file/d/1-v-cpO8l4rw3sP76vtQSmdy00RlEaNaN/view?usp=sharing"
+      }
+   ]
 }
